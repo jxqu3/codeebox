@@ -3,15 +3,12 @@
 # Important
 This is CodeeBox. It was made by me (jxqu3), until I GitHub made 2FA mandatory, then I lost my authenticator app and I lost the account with this repo. Bummer.
 
-### CodeeBox
-!<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+### CodeeBox!
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M545 447L220 324.747L545 208L859 324.747L545 447Z" fill="#FFF500"/>
 <path d="M569 871.258L858.5 718.5V375L569 493.5V871.258Z" fill="#00A3FF"/>
 <path d="M509.5 871.258L220 718.5V375L509.5 493.5V871.258Z" fill="#FF7A00"/>
 </svg>
-
-[Uploading codeebox.svg…]()
-
 
 A simple client-based web developing code playground 😏
 https://codeebox.vercel.app
