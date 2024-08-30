@@ -1,4 +1,6 @@
-![codeebox](https://github.com/user-attachments/assets/d5a272c1-f267-42b9-b9f1-bdfc0cf901ef)# Important
+![codeebox](https://github.com/user-attachments/assets/d5a272c1-f267-42b9-b9f1-bdfc0cf901ef)
+
+# Important
 This is CodeeBox. It was made by me (jxqu3), until I GitHub made 2FA mandatory, then I lost my authenticator app and I lost the account with this repo. Bummer.
 
 ### CodeeBox
