@@ -1,8 +1,15 @@
-# Important
+![codeebox](https://github.com/user-attachments/assets/d5a272c1-f267-42b9-b9f1-bdfc0cf901ef)# Important
 This is CodeeBox. It was made by me (jxqu3), until I GitHub made 2FA mandatory, then I lost my authenticator app and I lost the account with this repo. Bummer.
 
 ### CodeeBox
-![image](https://github.com/check-m4te/codeebox/assets/132251469/77d9c702-eee5-4691-a19a-bc5eac715891)
+!<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M545 447L220 324.747L545 208L859 324.747L545 447Z" fill="#FFF500"/>
+<path d="M569 871.258L858.5 718.5V375L569 493.5V871.258Z" fill="#00A3FF"/>
+<path d="M509.5 871.258L220 718.5V375L509.5 493.5V871.258Z" fill="#FF7A00"/>
+</svg>
+
+[Uploading codeebox.svg…]()
+
 
 A simple client-based web developing code playground 😏
 https://codeebox.vercel.app
