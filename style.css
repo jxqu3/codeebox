@@ -1,43 +1,43 @@
 /* ! Fonts */
 @font-face {
   font-family: "CascadiaCodePL";
-  src: url("/assets/fonts/CascadiaCodePL.woff2") format("woff2");
+  src: url("./assets/fonts/CascadiaCodePL.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "FiraCode";
-  src: url("/assets/fonts/FiraCode.woff2") format("woff2");
+  src: url("./assets/fonts/FiraCode.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Agave";
-  src: url("/assets/fonts/Agave.woff2") format("woff2");
+  src: url("./assets/fonts/Agave.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Ellograph";
-  src: url("/assets/fonts/Ellograph.woff2") format("woff2");
+  src: url("./assets/fonts/Ellograph.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Hasklig";
-  src: url("/assets/fonts/Hasklig.woff2") format("woff2");
+  src: url("./assets/fonts/Hasklig.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "JuliaMono";
-  src: url("/assets/fonts/JuliaMono.woff2") format("woff2");
+  src: url("./assets/fonts/JuliaMono.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "CascadiaCodePL";
-  src: url("/assets/fonts/CascadiaCodePLItalic.woff2") format("woff2");
+  src: url("./assets/fonts/CascadiaCodePLItalic.woff2") format("woff2");
   font-weight: normal;
   font-style: italic;
 }
@@ -93,14 +93,14 @@ iframe {
 /* * Editor Icons */
 
 #html::after {
-  background-image: url("/assets/html.svg");
+  background-image: url("./assets/html.svg");
 }
 
 #css::after {
-  background-image: url("/assets/css.svg");
+  background-image: url("./assets/css.svg");
 }
 #js::after {
-  background-image: url("/assets/js.svg");
+  background-image: url("./assets/js.svg");
 }
 
 /* ! Sidebars and menus */
