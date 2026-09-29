@@ -84,7 +84,7 @@ export let lightTheme = false;
 // . Theme
 const setMonTheme = async (p) => {
   let accent; let color; let highlight; let r; let g; let b; let brightness;
-  fetch(`/themes/${p}.json`)
+  fetch(`${import.meta.env.BASE_URL}themes/${p}.json`)
       .then((data) => data.json())
       .then((data) => {
         monaco.editor.defineTheme('theme', data);
