@@ -11,7 +11,7 @@ This is CodeeBox. It was made by me (jxqu3), until I GitHub made 2FA mandatory, 
 </svg>
 
 A simple client-based web developing code playground 😏
-https://codeebox.vercel.app
+https://jxqu3.github.io/codeebox/
 
 ### Features:
 1. Instant change preview (You can disable it if you want)
